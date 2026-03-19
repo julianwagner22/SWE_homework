@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\julia\\.nuget\\packages\\": {}
+    "C:\\Users\\julie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julia\\Documents\\GitHub\\SWE_homework\\SecondhandVinylStore\\SecondhandVinylStore\\SecondhandVinylStore.csproj",
+      "projectUniqueName": "C:\\CLion\\Semester 2\\Softwareentwicklung\\Übungsaufgabe\\SWE_homework\\SecondhandVinylStore\\SecondhandVinylStore\\SecondhandVinylStore.csproj",
       "projectName": "SecondhandVinylStore",
-      "projectPath": "C:\\Users\\julia\\Documents\\GitHub\\SWE_homework\\SecondhandVinylStore\\SecondhandVinylStore\\SecondhandVinylStore.csproj",
-      "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julia\\Documents\\GitHub\\SWE_homework\\SecondhandVinylStore\\SecondhandVinylStore\\obj\\",
+      "projectPath": "C:\\CLion\\Semester 2\\Softwareentwicklung\\Übungsaufgabe\\SWE_homework\\SecondhandVinylStore\\SecondhandVinylStore\\SecondhandVinylStore.csproj",
+      "packagesPath": "C:\\Users\\julie\\.nuget\\packages\\",
+      "outputPath": "C:\\CLion\\Semester 2\\Softwareentwicklung\\Übungsaufgabe\\SWE_homework\\SecondhandVinylStore\\SecondhandVinylStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\julie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
