@@ -26,7 +26,7 @@ namespace SecondhandVinylStore
     internal class Program
     {
 
-        static List<Album> regal = new List<Album>();       //static = überall zugriff
+        static List<Album> regal = new List<Album>();       //static = selbe Liste für alle Zugriffe im Programm
                                                             //erstellt eine leere Liste, die Album-Objekte speicher
             static void Main(string[] args)
         {
@@ -81,7 +81,7 @@ namespace SecondhandVinylStore
 
         static Album ErstelleAlbum()            //ErstelleAlbum = Name der Funktion, Funktion gibt ein Album zurück
             {
-            Album neuesAlbum;
+            Album neuesAlbum = new Album();
 
             Console.Write("Interpret: ");
             neuesAlbum.Interpret = Console.ReadLine();

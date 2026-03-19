@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecondhandVinylStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d588cbd6b3283d0bc5f5cba75e7fc2862a643b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfd8ad00a5abb54b7c9b2a0cc820c3d224023bc9")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecondhandVinylStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecondhandVinylStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
