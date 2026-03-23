@@ -1,0 +1,15 @@
+Dies ist ein einf*cher Testtext für dein Progr*mm.
+
+Er enthält mehrere Zeilen,
+verschiedene Zeichen und *uch Z*hlen wie 12345.
+
+M*nche Buchst*ben kommen öfter vor, zum Beispiel d*s "e" oder d*s "*".
+Andere Zeichen wie x, y oder z sind eher selten.
+
+Sonderzeichen sind *uch d*bei: ! ? % & ( ) = + * #
+
+Groß- und Kleinschreibung ist ebenf*lls gemischt.
+DIES IST EINE ZEILE IN GROSSBUCHSTABEN.
+dies ist eine zeile in kleinbuchst*ben.
+
+Viel Erfolg beim Testen deines Codes!

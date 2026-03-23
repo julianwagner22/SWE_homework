@@ -1,0 +1,15 @@
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\CensorAndCopy\CensorAndCopy\bin\Debug\net10.0\CensorAndCopy.exe
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\CensorAndCopy\CensorAndCopy\bin\Debug\net10.0\CensorAndCopy.deps.json
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\CensorAndCopy\CensorAndCopy\bin\Debug\net10.0\CensorAndCopy.runtimeconfig.json
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\CensorAndCopy\CensorAndCopy\bin\Debug\net10.0\CensorAndCopy.dll
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\CensorAndCopy\CensorAndCopy\bin\Debug\net10.0\CensorAndCopy.pdb
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\CensorAndCopy\CensorAndCopy\obj\Debug\net10.0\CensorAndCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\CensorAndCopy\CensorAndCopy\obj\Debug\net10.0\CensorAndCopy.AssemblyInfoInputs.cache
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\CensorAndCopy\CensorAndCopy\obj\Debug\net10.0\CensorAndCopy.AssemblyInfo.cs
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\CensorAndCopy\CensorAndCopy\obj\Debug\net10.0\CensorAndCopy.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\CensorAndCopy\CensorAndCopy\obj\Debug\net10.0\CensorAndCopy.sourcelink.json
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\CensorAndCopy\CensorAndCopy\obj\Debug\net10.0\CensorAndCopy.dll
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\CensorAndCopy\CensorAndCopy\obj\Debug\net10.0\refint\CensorAndCopy.dll
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\CensorAndCopy\CensorAndCopy\obj\Debug\net10.0\CensorAndCopy.pdb
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\CensorAndCopy\CensorAndCopy\obj\Debug\net10.0\CensorAndCopy.genruntimeconfig.cache
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\CensorAndCopy\CensorAndCopy\obj\Debug\net10.0\ref\CensorAndCopy.dll

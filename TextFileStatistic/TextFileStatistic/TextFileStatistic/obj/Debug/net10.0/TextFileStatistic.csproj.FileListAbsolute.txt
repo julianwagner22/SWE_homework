@@ -1,0 +1,15 @@
+C:\Users\Julian\Documents\GitHub\SWE_homework\TextFileStatistic\TextFileStatistic\TextFileStatistic\bin\Debug\net10.0\TextFileStatistic.exe
+C:\Users\Julian\Documents\GitHub\SWE_homework\TextFileStatistic\TextFileStatistic\TextFileStatistic\bin\Debug\net10.0\TextFileStatistic.deps.json
+C:\Users\Julian\Documents\GitHub\SWE_homework\TextFileStatistic\TextFileStatistic\TextFileStatistic\bin\Debug\net10.0\TextFileStatistic.runtimeconfig.json
+C:\Users\Julian\Documents\GitHub\SWE_homework\TextFileStatistic\TextFileStatistic\TextFileStatistic\bin\Debug\net10.0\TextFileStatistic.dll
+C:\Users\Julian\Documents\GitHub\SWE_homework\TextFileStatistic\TextFileStatistic\TextFileStatistic\bin\Debug\net10.0\TextFileStatistic.pdb
+C:\Users\Julian\Documents\GitHub\SWE_homework\TextFileStatistic\TextFileStatistic\TextFileStatistic\obj\Debug\net10.0\TextFileStatistic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\Documents\GitHub\SWE_homework\TextFileStatistic\TextFileStatistic\TextFileStatistic\obj\Debug\net10.0\TextFileStatistic.AssemblyInfoInputs.cache
+C:\Users\Julian\Documents\GitHub\SWE_homework\TextFileStatistic\TextFileStatistic\TextFileStatistic\obj\Debug\net10.0\TextFileStatistic.AssemblyInfo.cs
+C:\Users\Julian\Documents\GitHub\SWE_homework\TextFileStatistic\TextFileStatistic\TextFileStatistic\obj\Debug\net10.0\TextFileStatistic.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\GitHub\SWE_homework\TextFileStatistic\TextFileStatistic\TextFileStatistic\obj\Debug\net10.0\TextFileStatistic.sourcelink.json
+C:\Users\Julian\Documents\GitHub\SWE_homework\TextFileStatistic\TextFileStatistic\TextFileStatistic\obj\Debug\net10.0\TextFileStatistic.dll
+C:\Users\Julian\Documents\GitHub\SWE_homework\TextFileStatistic\TextFileStatistic\TextFileStatistic\obj\Debug\net10.0\refint\TextFileStatistic.dll
+C:\Users\Julian\Documents\GitHub\SWE_homework\TextFileStatistic\TextFileStatistic\TextFileStatistic\obj\Debug\net10.0\TextFileStatistic.pdb
+C:\Users\Julian\Documents\GitHub\SWE_homework\TextFileStatistic\TextFileStatistic\TextFileStatistic\obj\Debug\net10.0\TextFileStatistic.genruntimeconfig.cache
+C:\Users\Julian\Documents\GitHub\SWE_homework\TextFileStatistic\TextFileStatistic\TextFileStatistic\obj\Debug\net10.0\ref\TextFileStatistic.dll

@@ -1,0 +1,15 @@
+Dies ist ein einfacher Testtext für dein Programm.
+
+Er enthält mehrere Zeilen,
+verschiedene Zeichen und auch Zahlen wie 12345.
+
+Manche Buchstaben kommen öfter vor, zum Beispiel das "e" oder das "a".
+Andere Zeichen wie x, y oder z sind eher selten.
+
+Sonderzeichen sind auch dabei: ! ? % & ( ) = + * #
+
+Groß- und Kleinschreibung ist ebenfalls gemischt.
+DIES IST EINE ZEILE IN GROSSBUCHSTABEN.
+dies ist eine zeile in kleinbuchstaben.
+
+Viel Erfolg beim Testen deines Codes!
