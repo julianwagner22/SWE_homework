@@ -1,15 +1,14 @@
-Dies ist ein einf*cher Testtext für dein Progr*mm.
+Di*s ist *in *infach*r T*stt*xt.
 
-Er enthält mehrere Zeilen,
-verschiedene Zeichen und *uch Z*hlen wie 12345.
+Er *nthält m*hr*r* Z*il*n,
+v*rschi*d*n* Z*ich*n und auch Zahl*n wi* 12345.
 
-M*nche Buchst*ben kommen öfter vor, zum Beispiel d*s "e" oder d*s "*".
-Andere Zeichen wie x, y oder z sind eher selten.
+Manch* Buchstab*n komm*n öft*r vor, zum B*ispi*l das "*" od*r das "a".
+And*r* Z*ich*n wi* x, y od*r z sind *h*r s*lt*n.
 
-Sonderzeichen sind *uch d*bei: ! ? % & ( ) = + * #
+Sond*rz*ich*n sind auch dab*i: ! ? % & ( ) = + * #
 
-Groß- und Kleinschreibung ist ebenf*lls gemischt.
+Groß- und Kl*inschr*ibung ist *b*nfalls g*mischt.
 DIES IST EINE ZEILE IN GROSSBUCHSTABEN.
-dies ist eine zeile in kleinbuchst*ben.
-
-Viel Erfolg beim Testen deines Codes!
+di*s ist *in* z*il* in kl*inbuchstab*n.
+!

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CensorAndCopy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93da380b82eccf0d051b780025a469b01ec54d19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a74fe81d39aea100f40c7a0aa6c6ee7d4c868b53")]
 [assembly: System.Reflection.AssemblyProductAttribute("CensorAndCopy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CensorAndCopy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

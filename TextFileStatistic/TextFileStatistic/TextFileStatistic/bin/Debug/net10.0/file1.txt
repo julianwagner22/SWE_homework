@@ -11,4 +11,3 @@ Sonderzeichen sind auch dabei: ! ? % & ( ) = + * #
 Groß- und Kleinschreibung ist ebenfalls gemischt.
 DIES IST EINE ZEILE IN GROSSBUCHSTABEN.
 dies ist eine zeile in kleinbuchstaben.
-!
