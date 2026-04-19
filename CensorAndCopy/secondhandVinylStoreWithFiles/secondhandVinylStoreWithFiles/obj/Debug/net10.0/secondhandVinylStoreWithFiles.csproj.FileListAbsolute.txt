@@ -1,0 +1,15 @@
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\secondhandVinylStoreWithFiles\secondhandVinylStoreWithFiles\bin\Debug\net10.0\secondhandVinylStoreWithFiles.exe
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\secondhandVinylStoreWithFiles\secondhandVinylStoreWithFiles\bin\Debug\net10.0\secondhandVinylStoreWithFiles.deps.json
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\secondhandVinylStoreWithFiles\secondhandVinylStoreWithFiles\bin\Debug\net10.0\secondhandVinylStoreWithFiles.runtimeconfig.json
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\secondhandVinylStoreWithFiles\secondhandVinylStoreWithFiles\bin\Debug\net10.0\secondhandVinylStoreWithFiles.dll
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\secondhandVinylStoreWithFiles\secondhandVinylStoreWithFiles\bin\Debug\net10.0\secondhandVinylStoreWithFiles.pdb
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\secondhandVinylStoreWithFiles\secondhandVinylStoreWithFiles\obj\Debug\net10.0\secondhandVinylStoreWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\secondhandVinylStoreWithFiles\secondhandVinylStoreWithFiles\obj\Debug\net10.0\secondhandVinylStoreWithFiles.AssemblyInfoInputs.cache
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\secondhandVinylStoreWithFiles\secondhandVinylStoreWithFiles\obj\Debug\net10.0\secondhandVinylStoreWithFiles.AssemblyInfo.cs
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\secondhandVinylStoreWithFiles\secondhandVinylStoreWithFiles\obj\Debug\net10.0\secondhandVinylStoreWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\secondhandVinylStoreWithFiles\secondhandVinylStoreWithFiles\obj\Debug\net10.0\secondhandVinylStoreWithFiles.sourcelink.json
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\secondhandVinylStoreWithFiles\secondhandVinylStoreWithFiles\obj\Debug\net10.0\secondhandVinylStoreWithFiles.dll
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\secondhandVinylStoreWithFiles\secondhandVinylStoreWithFiles\obj\Debug\net10.0\refint\secondhandVinylStoreWithFiles.dll
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\secondhandVinylStoreWithFiles\secondhandVinylStoreWithFiles\obj\Debug\net10.0\secondhandVinylStoreWithFiles.pdb
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\secondhandVinylStoreWithFiles\secondhandVinylStoreWithFiles\obj\Debug\net10.0\secondhandVinylStoreWithFiles.genruntimeconfig.cache
+C:\Users\Julian\Documents\GitHub\SWE_homework\CensorAndCopy\secondhandVinylStoreWithFiles\secondhandVinylStoreWithFiles\obj\Debug\net10.0\ref\secondhandVinylStoreWithFiles.dll
